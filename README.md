@@ -7,14 +7,14 @@ Fasores
 
 **2.1. Objetivo General**
 
-Determinar experimentalmente las características de señales senoidales.
+Realizar operaciones aritméticas con números complejos, tanto en su forma polar
+como rectangular.
 
 **2.2. Objetivos Específicos**
 
-- Interpretar la onda sinusoidal que el circuito presenta.
-- Aprender a analizar el circuito con las herramientas que contamos.
-- Realizar el circuito propuesto de manera correcta y funcional.
-- Verificar las combinaciones serie y paralelo.
+- Interpretar el uso de fasores en un circuito.
+- Aprender a realizar las operaciones aritméticas.
+- Verificar el cambio de rectanulares y polares.
 - Observar los resultados y concluir para que sirve cada herramienta. 
 
 **3. MARCO TEÓRICO**
