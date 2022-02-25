@@ -27,4 +27,18 @@ Determinar experimentalmente las características de señales senoidales.
 
 **4. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-**4.1.** Se realizará el circuito simple (de Thevenin) en DCACLab. Se utilizarán las siguientes herramientas:
+**4.1.** Realizar los ejercicios: Transformar en Polares.
+
+[![Whats-App-Image-2022-02-25-at-11-42-52-AM.jpg](https://i.postimg.cc/GmqWsNdM/Whats-App-Image-2022-02-25-at-11-42-52-AM.jpg)](https://postimg.cc/PCv3gSLZ)
+
+**4.2.** Realizar los ejercicios: Transformar en rectangulares.
+
+[![Whats-App-Image-2022-02-25-at-11-42-53-AM.jpg](https://i.postimg.cc/QxqPRP9X/Whats-App-Image-2022-02-25-at-11-42-53-AM.jpg)](https://postimg.cc/WhhXZ5wK)
+
+**4.3.** Realizar los ejercicios: ponerlos en su forma polar y rectangular.
+
+[![Whats-App-Image-2022-02-25-at-11-42-53-AM-1.jpg](https://i.postimg.cc/C5gP2HwB/Whats-App-Image-2022-02-25-at-11-42-53-AM-1.jpg)](https://postimg.cc/mzmyz9zB)
+
+[![Whats-App-Image-2022-02-25-at-11-42-53-AM-2.jpg](https://i.postimg.cc/KcPsMV5n/Whats-App-Image-2022-02-25-at-11-42-53-AM-2.jpg)](https://postimg.cc/xqdRr6hC)
+
+**4.4.** Del enunciado 4.3. Realizar los ejercicios en la calculadora.
