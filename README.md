@@ -18,3 +18,13 @@ Determinar experimentalmente las características de señales senoidales.
 - Observar los resultados y concluir para que sirve cada herramienta. 
 
 **3. MARCO TEÓRICO**
+
+**3.1. ¿Qué es un Fasor?**
+
+[![1.jpg](https://i.postimg.cc/XYq4r1NV/1.jpg)](https://postimg.cc/crpVjm8j)
+
+[![2.jpg](https://i.postimg.cc/CKf0NZfX/2.jpg)](https://postimg.cc/cKZP1LhB)
+
+**4. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+**4.1.** Se realizará el circuito simple (de Thevenin) en DCACLab. Se utilizarán las siguientes herramientas:
